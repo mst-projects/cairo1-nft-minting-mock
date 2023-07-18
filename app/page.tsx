@@ -39,7 +39,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col justify-start bg-gray-900 p-4 text-white">
       <div className="mb-6 flex flex-row justify-between rounded-lg bg-gray-800 pt-2 shadow-md">
         <div className="text-lg font-semibold">
-          Minting Mock NFT with Cairo1!
+          Sango! Record the words of your choice.
         </div>
         <div>
           {!isConnected ? (
